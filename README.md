@@ -1,1 +1,1 @@
-greetings this is a college project
+greetings, this is a college project
